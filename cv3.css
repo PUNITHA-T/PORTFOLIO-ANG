@@ -1,0 +1,71 @@
+#header{
+    display: grid;
+    grid-template-columns: 0.5fr 3fr 4fr;
+    
+}
+#right-margin{
+    margin-right: 40px;
+    font-weight: bold;
+}
+#image{
+    height:150px;
+    width:150px;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:200px
+}
+#name{
+    letter-spacing: 0.5em;
+    font-weight: bold;
+    
+}
+#web{
+    letter-spacing: 0.2em;
+    margin-top:30px;
+}
+#underline{
+    width: 440px;
+    height: 7px;
+    margin-top: 10PX;
+    background-color: #CECED0;
+}
+#obj{
+    background: #CDCDCF;
+    margin: 10px;
+    font-weight: bold;
+}
+#wrapper{
+    padding: 0px;
+    margin-top: 50px;
+}
+#edu{
+    background: #CDCDCF;
+    margin: 10px;
+    font-weight: bold;
+}
+#skill{
+    background: #CDCDCF;
+    margin: 10px;
+    font-weight: bold;
+}
+#hobbies{
+    background: #CDCDCF;
+   
+    margin: 10px;
+    font-weight: bold;
+}
+#project{
+    
+    background: #CDCDCF;
+    margin: 10px;
+    font-weight: bold;
+}
+#details{
+
+    background: #CDCDCF;
+    margin: 10px;
+    font-weight: bold;
+}
+.h3{
+    color:#CDCDCF
+}
